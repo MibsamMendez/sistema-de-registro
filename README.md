@@ -2,7 +2,7 @@
 
 Estado del proyecto: 🚧 En construcción 🚧
 
-Para ejecuatar el sistema, debes poner:
+Para ejecutar el sistema, debes poner:
 
 ```npm install react```
 
